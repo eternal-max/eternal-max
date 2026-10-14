@@ -1,4 +1,4 @@
-# Hello, I'm Nikolay
+# Hello everyone, I'm Nikolay
 
 ## My Teck Stack
 
