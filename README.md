@@ -1,4 +1,6 @@
-# Hello everyone, I'm Nikolay
+# **Hello everyone, I'm Nikolay**
+
+## I am a first-year student who is currently studying and I want to develop in the field of IT technology
 
 ## My Teck Stack
 
